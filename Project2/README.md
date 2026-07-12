@@ -44,7 +44,7 @@ This project aims to identify fraudulent transactions by building and evaluating
 - ROC Curve
 - Precision-Recall Curve
 
-#🏆 Best Model
+# Best Model
 
 Random Forest achieved the best overall performance with the highest F1-Score and ROC-AUC, making it the most suitable model for this fraud detection task.
 
